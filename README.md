@@ -57,8 +57,6 @@ pwsh -File .\little-isaac-codex-pet\install.ps1
 - 其他作者的二创原图
 - 生成提示词、参考图和中间候选图
 
-造型方向受到 golsod 的哔哩哔哩作品 [《[以撒的结合/梦限大]以撒の小小的夢》](https://www.bilibili.com/video/BV1xpGw6JE9u/) 启发；该视频及其画面没有在本仓库中重新分发。
-
 ## 许可与声明
 
 本项目是非官方、非商业同人项目，与 Edmund McMillen、Florian Himsl、Nicalis、*The Binding of Isaac* 官方、OpenAI 或 Codex 官方均无从属或背书关系。
