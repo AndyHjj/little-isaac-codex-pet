@@ -1,0 +1,15 @@
+# Development and reference material must not enter the public repository.
+references/
+raw/
+decoded/
+frames/
+generated/
+backups/
+.install-test/
+*.mp4
+*.mkv
+*.webm
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
